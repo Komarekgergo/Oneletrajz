@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(184, 184, 187);
+    width: 50%;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+ 
+a.kiemel{
+    color: blue;
+}
+
+table, th, td{
+    border:1px solid black;
+    border-radius: 5px;
+}
+
+.oszlop{
+    background-color: rgb(21, 21, 54);
+}
+
+.profilkep{
+    width: 100px;
+    float: right;
+
+}
